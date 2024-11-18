@@ -12,7 +12,7 @@ The badge can be communicated to over the USB serial interface, using a 115200 b
 
 To configure WiFi connection details you can connect to the Badge SSID (T-1337-v#) and visit the captive portal at http://4.3.2.1. From here enter the SSID/Password to have the badge join the network, afterwards specifying the 01 server will attempt the connection. If successful the server address will be saved. 
 
-These details can also be configured via the serial menu uplink commands. The 2nd menu option details how these function. The remaining three menu options refer to CTF challenges which a walkthrough can be found for here. 
+These details can also be configured via the serial menu uplink commands. The 2nd menu option details how these function. The remaining three menu options refer to CTF challenges which a [walkthrough can be found for here](https://github.com/syn-ack-zack/Terminator-01/wiki). 
 
 <img src="https://github.com/user-attachments/assets/0c7ddde7-e5e3-4b81-be90-c92fc486135f" width="400">
 <img src="https://github.com/user-attachments/assets/1c9c4d36-c21b-43c0-87c1-8fe78597fe24" width="440">
